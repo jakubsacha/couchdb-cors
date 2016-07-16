@@ -1,2 +1,4 @@
 # couchdb-cors
-CouchDB official image + cors enabled
+CouchDB official dockerhub image + cors enabled
+
+This image is automatically rebuild and available on dockerhub: https://hub.docker.com/r/trivago/couchdb-cors/
